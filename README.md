@@ -2,6 +2,14 @@
 
 Interfaz web para la gestión de usuarios y balances de SMART Pump, construida con **React**, **TypeScript**, **Vite** y **TailwindCSS**.
 
+## Capturas de pantalla
+
+<img width="479" alt="Screenshot 2025-04-18 at 19 23 56" src="https://github.com/user-attachments/assets/c024558b-7e05-4830-949b-3931f5bbcc1a" />
+<img width="1378" alt="Screenshot 2025-04-18 at 19 23 45" src="https://github.com/user-attachments/assets/d0b275d0-5958-4a0d-9e0a-73edd2c8b3fe" />
+<img width="1366" alt="Screenshot 2025-04-18 at 19 23 34" src="https://github.com/user-attachments/assets/68bec574-f15a-4f4a-89b4-40016f65254c" />
+<img width="812" alt="Screenshot 2025-04-18 at 19 23 14" src="https://github.com/user-attachments/assets/cfe9eb72-2def-4b8d-9cea-33dde84a31c6" />
+
+
 ## Tabla de Contenidos
 
 - [Características](#características)
